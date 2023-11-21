@@ -1,7 +1,7 @@
 
 - 👇 Hi, there!
 - 👋 I'm Vladimir Kotsev from Bulgaria!
-- 🌱 I’m currently learning ASP.NET🏆
+- 🌱 I’m currently learning C++🏆
 - 👀 I’m interested in learning more programming languages.
 - 🖊 Contact me at v.kotsev04@gmail.com
 
